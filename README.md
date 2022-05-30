@@ -31,4 +31,17 @@
 5.查看画布图表
 
 ## 效果
-![组件编辑](https://github.com/Backstrokefish/-/blob/readme-image/%E5%BE%AE%E4%BF%A1%E5%9B%BE%E7%89%87_20220528112615.png)
+![组件编辑](https://github.com/Backstrokefish/-/blob/readme-image/%E6%95%88%E6%9E%9C1.png)
+
+![组件编辑](https://github.com/Backstrokefish/-/blob/readme-image/%E6%95%88%E6%9E%9C2.png)
+
+![画布编辑](https://github.com/Backstrokefish/-/blob/readme-image/%E6%95%88%E6%9E%9C3.png)
+
+![删除画布](https://github.com/Backstrokefish/-/blob/readme-image/%E6%95%88%E6%9E%9C4.png)
+
+## 补充说明
+
+ 1.项目思路有参考网络上的项目，时间较长，没有找到参考出处，如发现可联系我，再标明参考链接
+ 
+ 2.项目有待优化的地方很多，希望大家能够一起参与
+
